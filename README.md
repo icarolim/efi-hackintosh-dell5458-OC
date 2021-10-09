@@ -17,10 +17,12 @@ Funcionando:
 - Wifi
 - Ethernet
 - Som 
-- Microfone/Siri
+- Microfone / Siri
 - Trackpad
+- Camera Integrada / Facetime
 
 
 Não Funcionando:
 - Bluetooth
-- Câmera Integrada
+- Airdrop
+- Airplay (Não testado)
