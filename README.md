@@ -20,6 +20,7 @@ Funcionando:
 - Microfone / Siri
 - Trackpad
 - Camera Integrada / Facetime
+- iMessage 
 
 
 Não Funcionando:
