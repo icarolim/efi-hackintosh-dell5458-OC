@@ -26,4 +26,4 @@ Não Funcionando:
 - Bluetooth
 - Airdrop
 - Airplay (Não testado)
-- USB (às vezes algumas portas não reconhecem conexões)
+- HDMI (Não testado) 
