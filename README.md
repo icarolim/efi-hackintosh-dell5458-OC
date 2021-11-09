@@ -1,4 +1,4 @@
-# efi-hackintosh-dell5458-OC
+# efi-hackintosh-dell5458-OC-BigSur
 Pasta EFI Opencore para Notebook Dell Inspiron 5458
 ----------------------------------------------------
 
